@@ -1,0 +1,63 @@
+body{
+    overflow: hidden;
+}
+.ram{
+   background-image: url(https://static.vecteezy.com/system/resources/previews/023/460/354/non_2x/happy-birthday-background-with-balloons-illustration-ai-generative-free-photo.jpg);
+   background-size: 100% 100%;
+   margin: -10px;
+   padding: 0;
+   height: 760px;
+}
+
+.ent{
+    color: dodgerblue;
+    font-size: x-large;
+    font-family: lexend zetta;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+    padding: 40px;
+    position: relative;
+    bottom: 70px;
+}
+.er{
+    color: lightblue;
+    font-size: xx-large;
+    font-family: shojumaru;
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+    position: relative;
+    bottom: 70px;
+}
+.hover:hover{
+    background-color: lightgreen;
+    color: white;
+}
+.hover{
+    padding: 5px;
+    border: 3px solid rgb(255, 128, 0);
+    border-radius: 12px;
+    font-size: 25px;
+    color: black;
+    font-family: ubuntu;
+}
+#move{
+    color: rgb(138, 2, 249);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+button{
+    position: relative;
+    left:550px;
+    padding: 15px;
+    border-radius: 20px;
+    border: 0px;
+    background-color: aqua;
+    font-family: shojumaru;
+    position: relative;
+    bottom: 90px;
+    font-size: 20px;
+
+}
+

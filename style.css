@@ -1,0 +1,45 @@
+body{
+    background-image: url(assets/BG\ IMAGE\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 900px;
+    height: 580px;
+    
+
+}
+h1{
+   margin-left: 420px;
+   font-family:Lexend Zetta;
+   stroke: Red;
+  
+}
+h2{
+    margin-left: 520px;
+    font-family:Lexend Zetta;
+}
+.a{
+   padding:15px;
+   border-radius:10px ;
+   width: 100px;
+   background-color:rgba(61, 120, 235, 1);
+   margin-left:590px;
+   margin-top: 140px;
+   border: 0px;
+   font-family: autour one;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.b{
+    padding: 30px;
+    border-radius:15px ;
+    background-color:rgba(61, 120, 235, 1);
+    margin-left:560px;
+    margin-top: 10px;
+    border: 0px;
+    font-family: autour one;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+

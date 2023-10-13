@@ -1,0 +1,51 @@
+body{
+    background-image: url(assets/background.png);
+    background-size: 100% 100%;
+    width: 0px;
+    height: 600px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+ 
+
+
+}
+
+.in{
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    height: 400px;
+    width: 250px;
+    
+ 
+}
+button{
+   position: relative;
+   bottom: 1300px;
+   left: 1225px;
+
+}
+
+#score{
+    font-family: sans-serif;
+    font-size: 30px;
+    position: relative;
+    left: 1050px;
+    color: white;
+}
+
+
+
+#ghost{
+    position: absolute;
+    bottom: 375px;
+    left: 525px;
+    animation: toptobottom 1.2s infinite;
+}
+@keyframes toptobottom {
+    from{
+        top: 0;}
+    to{
+        top: 100%;
+    }
+}

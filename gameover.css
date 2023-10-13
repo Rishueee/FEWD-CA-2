@@ -1,0 +1,70 @@
+body{
+    overflow: hidden;
+}
+.ya{
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    width: 1500px;
+    margin: -10px;
+}
+.a{
+    margin-left:325px;
+    position: relative;
+    margin-top:-275px ;
+}
+.ri{
+   margin-top: -300px;
+   margin-left: 100px;
+   font-family: lexend zetta;
+   font-weight: bolder;
+   font-size: 45px;
+   position: relative;
+   bottom: 745px;
+   transform: rotate(-10deg); 
+
+}
+
+.sh{
+   margin-top: -300px;
+   margin-left: 790px;
+   font-family: cursive;
+   font-weight: 900px;
+   font-size: 27px;
+   background-color: black;
+   color: white;
+   position: relative;
+   bottom: 750px;
+   right: 570px;
+   padding: 5px;
+}
+
+#ab{
+    margin-top: 350px;
+    margin-left: 130px;
+    font-family: shojumaru;
+    font-weight: bolder;
+    font-size: 45px;
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 725px;
+}
+button{
+    background-color: black;
+}
+
+#helo{
+   margin-left: 330px;
+   height: 30px;
+   width: 30px;
+   position: relative;
+   bottom: 1255px;
+   z-index: 10;
+}
+.sur{
+position: relative;
+bottom: 700px;
+}
+
+
+

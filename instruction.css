@@ -1,0 +1,47 @@
+body{
+    background-image: url(https://img.freepik.com/premium-vector/game-level-underwater-landscape-with-sea-ocean-fishes-animals-vector-cartoon-background-undersea-coral-reef-dolphins-shark-turtle-seashells-deep-ocean-sea-water-game-level_8071-55520.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 900px;
+    height: 580px;
+    overflow:hidden ;
+
+}
+h1{
+    margin-left: 460px;
+    font-family:Lexend Zetta;
+    color: white;
+    stroke: Red;
+   
+ }
+ol{
+    margin-top:90px;
+    font-family: 'Luckiest Guy', cursive;
+    font-weight: bolder;
+    color: yellow;
+    -webkit-text-stroke: 2px black;
+    letter-spacing: -1px; 
+    font-size: 30px;
+}
+.backbtn{
+    display: flex;
+}
+#back{
+    height: 80px;
+    width: 300px;
+    position: relative;
+    top: 100px;
+    margin-left: 450px;
+}
+.backbt{
+    height: 80px;
+    width: 300px;
+    position: relative;
+    top: 32px;
+    margin-left: 545px;
+    font-family: Lexend Zetta;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+
+}
